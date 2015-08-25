@@ -1,0 +1,40 @@
+body{
+  position:absolute;
+  left:50%;
+  background-color: snow;
+}
+
+p{
+  color: green;
+}
+
+.info{
+  position:relative;
+  left:-50%;
+  border:1px dotted green;
+  padding-right:20px;
+  padding-bottom:25px; 
+  margin-bottom:20px;
+}
+#m{
+  float:left;
+}
+.body{
+  position:relative;
+  left:-50%;
+}
+#name{
+  float: left;
+  position:relative;
+  margin-top:20px;
+  margin-left:30px;
+}
+#weibo{
+   margin-left:30px;
+}
+#weixin{
+  margin-left:30px;
+}
+.clear{
+  clear:both;
+}
